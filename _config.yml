@@ -3,6 +3,7 @@ description: "An online colloquium and resource hub on factor graphs."
 theme: minima
 # Keep the architecture lean: a few Markdown pages with the Minima theme
 header_pages:
+  - index.md
   - agenda.md
   - materials.md
 
