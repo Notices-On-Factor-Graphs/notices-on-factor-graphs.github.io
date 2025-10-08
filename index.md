@@ -1,12 +1,10 @@
 ---
 layout: home
 title: Notices on Factor Graphs
+permalink: /about/
 ---
 
-Which one would you pick:
-$$ (5+2) * (7+3) $$
-OR
-$$ 5*7 + 5*3 + 2*7 + 2*3\,. $$
+Which sum is easier to calculate: $\` 5*7 + 5*3 + 2*7 + 2*3 `\$ or $\` (5+2) * (7+3) `\$?
 
 If you chose the first option, you're in the right place and will feel at home here. If you chose the second, you're about to discover some truly exciting things.
 
