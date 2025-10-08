@@ -8,6 +8,10 @@ permalink: /materials/
 
 > Start minimal. Add links as they become useful. Aim for clarity over completeness.
 
+Which sum is easier to calculate: 5 * 7 + 5 * 3 + 2 * 7 + 2 * 3 or (5+2) * (7+3)?
+
+The second one, right? 
+
 ## Tutorials & Overviews
 - _Add your favorite intro/tutorial links here._
 - _Short notes or slide decks are welcome._
@@ -27,7 +31,3 @@ permalink: /materials/
 - _Graphical models in control/estimation_
 - _Optimization / message passing_
 
-{% capture contact %}
-{% include contact-footer.md %}
-{% endcapture %}
-{{ contact | markdownify }}

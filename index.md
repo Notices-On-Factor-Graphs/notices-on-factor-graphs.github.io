@@ -1,12 +1,10 @@
 ---
 layout: page
 <!-- title: Notices on Factor Graphs -->
+title: About
 permalink: /about/
 ---
 
-Which sum is easier to calculate: 5 * 7 + 5 * 3 + 2 * 7 + 2 * 3 or (5+2) * (7+3)?
-
-The second one, right? 
 
 Welcome to **Notices on Factor Graphs** — an online colloquium and lightweight hub for people who share an interest in the factor-graph perspective across application areas.
 
@@ -16,8 +14,6 @@ Our goals are modest and practical:
 - Curate **materials**: foundational papers, tutorials, software, and drawing templates.
 - Offer simple **contact** info to foster collaboration and announcements.
 
-➡️ Jump to: [About](./index) · [Agenda](./agenda) · [Materials](./materials)
-
 ---
 
 **What are factor graphs?**  
@@ -25,8 +21,3 @@ Factor graphs are bipartite graphical models that make the factorization structu
 
 **Presentation Themes & Topics**  
 This colloquium brings together researchers from diverse labs and disciplines to explore the rich world of Factor Graphs—from their theoretical foundations to numerical methods and real-world applications. Presentations span topics such as probabilistic modeling, inference algorithms, and optimization techniques, often featuring insights from both internal teams and invited external experts. Whether you're interested in the mathematics behind graphical models or their use in robotics, signal processing, or AI, you'll find a stimulating mix of ideas and perspectives here.Find out about upcoming talks in the [Agenda](./agenda).
-
-{% capture contact %}
-{% include contact-footer.md %}
-{% endcapture %}
-{{ contact | markdownify }}

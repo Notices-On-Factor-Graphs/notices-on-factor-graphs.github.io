@@ -6,6 +6,7 @@ header_pages:
   - index.md
   - agenda.md
   - materials.md
+  - contact.md
 
 # Optional: tweak Minima
 minima:
