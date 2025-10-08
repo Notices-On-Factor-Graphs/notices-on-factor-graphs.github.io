@@ -26,7 +26,3 @@ permalink: /agenda/
 
 > Tip: Keep “three invited talks per year” as a rough target; stay informal and lean.
 
-{% capture contact %}
-{% include contact-footer.md %}
-{% endcapture %}
-{{ contact | markdownify }}
