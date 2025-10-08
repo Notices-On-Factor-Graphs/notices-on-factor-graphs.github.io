@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: page
 <!-- title: Notices on Factor Graphs -->
-permalink: /
+permalink: /about/
 ---
 
 Which sum is easier to calculate: 5 * 7 + 5 * 3 + 2 * 7 + 2 * 3 or (5+2) * (7+3)?
