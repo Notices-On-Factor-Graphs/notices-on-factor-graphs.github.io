@@ -6,7 +6,7 @@ permalink: /about/
 
 Which sum is easier to calculate: $\` 5*7 + 5*3 + 2*7 + 2*3 `\$ or $\` (5+2) * (7+3) `\$?
 
-If you chose the first option, you're in the right place and will feel at home here. If you chose the second, you're about to discover some truly exciting things.
+The second one, right? 
 
 Welcome to **Notices on Factor Graphs** — an online colloquium and lightweight hub for people who share an interest in the factor-graph perspective across application areas.
 
@@ -16,7 +16,7 @@ Our goals are modest and practical:
 - Curate **materials**: foundational papers, tutorials, software, and drawing templates.
 - Offer simple **contact** info to foster collaboration and announcements.
 
-➡️ Jump to: [Agenda](./agenda) · [Materials](./materials) · [Contact](./contact)
+➡️ Jump to: [About](./index) · [Agenda](./agenda) · [Materials](./materials)
 
 ---
 
