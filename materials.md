@@ -26,3 +26,8 @@ permalink: /materials/
 - _Probabilistic graphical models, PGMs_
 - _Graphical models in control/estimation_
 - _Optimization / message passing_
+
+{% capture contact %}
+{% include contact-footer.md %}
+{% endcapture %}
+{{ contact | markdownify }}
