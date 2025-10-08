@@ -1,12 +1,9 @@
----
-layout: page
-title: Contact
-permalink: /contact/
+
 ---
 
-# Contact
+### Contact
 
-For announcements, suggestions, and talk proposals:
+**Join the Conversation**
 
 - **Email:** _add an email address (e.g., notices.factor.graphs [at] example.org)_
 - **Maintainer(s):** _Name(s) and affiliation(s)_

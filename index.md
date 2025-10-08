@@ -28,6 +28,7 @@ Factor graphs are bipartite graphical models that make the factorization structu
 **Presentation Themes & Topics**  
 This colloquium brings together researchers from diverse labs and disciplines to explore the rich world of Factor Graphs—from their theoretical foundations to numerical methods and real-world applications. Presentations span topics such as probabilistic modeling, inference algorithms, and optimization techniques, often featuring insights from both internal teams and invited external experts. Whether you're interested in the mathematics behind graphical models or their use in robotics, signal processing, or AI, you'll find a stimulating mix of ideas and perspectives here.Find out about upcoming talks in the [Agenda](./agenda).
 
-
-**Join the Conversation**
-...[Contact](./contact)
+{% capture contact %}
+{% include contact-footer.md %}
+{% endcapture %}
+{{ contact | markdownify }}
