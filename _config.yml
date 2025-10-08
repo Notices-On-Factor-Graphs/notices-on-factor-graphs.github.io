@@ -1,0 +1,12 @@
+title: "Notices on Factor Graphs"
+description: "An online colloquium and resource hub on factor graphs."
+theme: minima
+# Keep the architecture lean: a few Markdown pages with the Minima theme
+header_pages:
+  - agenda.md
+  - materials.md
+  - contact.md
+
+# Optional: tweak Minima
+minima:
+  skin: classic
