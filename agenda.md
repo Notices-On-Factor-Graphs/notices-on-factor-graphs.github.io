@@ -6,7 +6,7 @@ permalink: /agenda/
 
 # Agenda — Upcoming Meetings
 
-> This page lists upcoming online colloquium meetings. Keep it simple and easy to maintain.
+> This page lists upcoming online colloquium meetings. 
 
 ## Next Meeting (Template)
 - **Title:** _e.g., Expectation Propagation on Factor Graphs_
