@@ -6,7 +6,7 @@ permalink: /
 ---
 
 
-Welcome to **Notices on Factor Graphs** — an online colloquium and lightweight hub for people who share an interest in the factor-graph perspective across application areas.
+Welcome to **Notices on Factor Graphs** — a lightweight hub for people who share an interest in factor graph perspectives across diverse application areas.
 
 Our goals are modest and practical:
 
@@ -17,7 +17,7 @@ Our goals are modest and practical:
 ---
 
 **What are factor graphs?**  
-Factor graphs are bipartite graphical models that make the factorization structure of functions explicit, enabling clear reasoning about inference, optimization, and message passing in diverse domains. Discover more about Factor graphs in [Materials](./materials).
+Factor graphs are bipartite graphical models that make the factorization structure of functions explicit, enabling efficient message passing-based inference and optimization algorithms in probabilistic models. Discover more about Factor graphs in [Materials](./materials).
 
 **Presentation Themes & Topics**  
-This colloquium brings together researchers from diverse labs and disciplines to explore the rich world of Factor Graphs—from their theoretical foundations to numerical methods and real-world applications. Presentations span topics such as probabilistic modeling, inference algorithms, and optimization techniques, often featuring insights from both internal teams and invited external experts. Whether you're interested in the mathematics behind graphical models or their use in robotics, signal processing, or AI, you'll find a stimulating mix of ideas and perspectives here.Find out about upcoming talks in the [Agenda](./agenda).
+This colloquium brings together researchers from diverse labs and disciplines to explore the rich world of factor graphs, from their theoretical foundations to numerical methods and real-world applications. Presentations span topics such as probabilistic modeling, inference algorithms, and optimization techniques, often featuring insights from both internal teams and invited external experts. Whether you're interested in the mathematics behind graphical models or their use in robotics, signal processing, or AI, you'll find a stimulating mix of ideas and perspectives here. Find out about upcoming talks in the [Agenda](./agenda).
