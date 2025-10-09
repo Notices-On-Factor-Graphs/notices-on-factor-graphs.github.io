@@ -2,7 +2,7 @@
 layout: page
 <!-- title: Notices on Factor Graphs -->
 title: About
-permalink: /about/
+permalink: /
 ---
 
 
