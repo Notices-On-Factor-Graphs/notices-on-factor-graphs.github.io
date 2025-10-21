@@ -9,9 +9,22 @@ A very simple GitHub Pages site (Jekyll + Markdown) for an online colloquium on 
 - `materials.md` — curated resources (papers, tutorials, software, drawing templates)
 - `contact.md` — how to get in touch
 
-## Editing content
-All pages are Markdown. Just edit `agenda.md`, `materials.md`, or `contact.md` and commit. The site will rebuild automatically.
+# Editing content
+All pages are Markdown. Just edit `agenda.md`, `materials.md`, or `contact.md` and commit. 
 
-## Optional niceties
-- Add a `CNAME` file if you plan to use a custom domain.
-- Add a `LICENSE` if you want to specify reuse terms for the site’s content.
+The site will rebuild automatically when you push to the `main` branch using GitHub Actions. The Action will build the site (i.e. generate the `_site` directory) and deploy it to GitHub Pages. You can check the build status in the [Actions](https://github.com/Notices-On-Factor-Graphs/website/actions) tab.
+
+## Preview locally
+You can edit the site and commit to `main` to see your changes live on the website.
+
+But if you want to preview your changes locally (before committing), you can run the following commands:
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+You might want to search online or ask ChatGPT for help if you encounter any issues.
+
+This will start a local server at `http://localhost:4000`. You can view your changes in your browser.
+
