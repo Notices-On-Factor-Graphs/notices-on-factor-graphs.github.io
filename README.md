@@ -2,16 +2,7 @@
 
 A very simple GitHub Pages site (Jekyll + Markdown) for an online colloquium on factor graphs.
 
-## Structure
-- `_config.yml` — site config (Minima theme + top navigation)
-- `index.md` — homepage
-- `agenda.md` — upcoming meetings (online colloquium)
-- `materials.md` — curated resources (papers, tutorials, software, drawing templates)
-- `contact.md` — how to get in touch
-
 # Editing content
-All pages are Markdown. Just edit `agenda.md`, `materials.md`, or `contact.md` and commit. 
-
 The site will rebuild automatically when you push to the `main` branch using GitHub Actions. The Action will build the site (i.e. generate the `_site` directory) and deploy it to GitHub Pages. You can check the build status in the [Actions](https://github.com/Notices-On-Factor-Graphs/website/actions) tab.
 
 ## Preview locally

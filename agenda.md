@@ -24,5 +24,4 @@ permalink: /agenda/
 |---|---|---|---|---|
 | _YYYY-MM-DD_ | _Name_ | _Talk title_ | _Meeting URL_ | _Slides / Paper_ |
 
-> Tip: Keep “three invited talks per year” as a rough target; stay informal and lean.
 

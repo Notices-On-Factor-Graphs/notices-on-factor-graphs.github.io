@@ -5,24 +5,5 @@ permalink: /materials/
 ---
 
 # Materials — Key Resources on Factor Graphs
-These materials will be updated over time.
-
-## Tutorials & Overviews
-- _Add your favorite intro/tutorial links here._
-- _Short notes or slide decks are welcome._
-
-## Foundational & Representative Papers
-- _To add: classic papers on factor graphs, sum–product / max–product, expectation propagation, loopy BP, etc._
-
-## Software
-- _Pertinent software packages and libraries (inference on factor graphs, modeling, visualization)._
-
-## Drawing Templates
-- _TikZ templates / styles for drawing factor graphs._
-- _Other diagramming tools or CSS/HTML snippets if useful._
-
-## Related Topics
-- _Probabilistic graphical models, PGMs_
-- _Graphical models in control/estimation_
-- _Optimization / message passing_
+Materials will be added here.
 
