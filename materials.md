@@ -5,6 +5,7 @@ permalink: /materials/
 ---
 
 # Materials — Key Resources on Factor Graphs
+These materials will be updated over time.
 
 ## Tutorials & Overviews
 - _Add your favorite intro/tutorial links here._
