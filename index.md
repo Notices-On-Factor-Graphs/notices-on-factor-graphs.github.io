@@ -8,7 +8,6 @@ permalink: /
 
 Welcome to **Notices on Factor Graphs** — a lightweight hub for people who share an interest in factor graph perspectives across diverse application areas.
 
-
 ---
 
 **What are factor graphs?**  
