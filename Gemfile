@@ -6,3 +6,4 @@ source "https://rubygems.org"
 
 gem "jekyll"
 gem "minima"
+gem "sass-embedded", "1.93.2"
