@@ -3,7 +3,7 @@
 A very simple GitHub Pages site (Jekyll + Markdown) for an online colloquium on factor graphs.
 
 # Editing content
-After you push to the `main` branch, the site will be rebuilt automatically via GitHub Actions. The Action will build the site (i.e., generate the `_site` directory) and deploy it to GitHub Pages. You can check the build status in the [Actions](https://github.com/Notices-On-Factor-Graphs/website/actions) tab.
+After you push to the `main` branch, the site will be rebuilt automatically via [GitHub Actions](https://github.com/features/actions). The Action will build the site (i.e., generate the `_site` directory) and deploy it to GitHub Pages. You can check the build status in the [Actions](https://github.com/Notices-On-Factor-Graphs/website/actions) tab.
 
 ## Preview locally
 You can edit the site and commit to `main` to see your changes live on the website.
