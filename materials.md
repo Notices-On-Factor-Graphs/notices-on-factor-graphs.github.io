@@ -23,6 +23,12 @@ Proceedings of the IEEE, vol. 95, no. 6, pp. 1295-1322, June 2007
 Entropy 23(7), 807; 2021
   - _Variational Bayesian inference algorithms as instances of Bethe Free Energy minimization implemented through message passing on factor graphs_.  
 
+## Lecture Notes
+
+- H.-A. Loeliger, [Model-Based Estimation and
+Signal Analysis with Factor Graphs
+and State Space Methods](https://doi.org/https://doi.org/10.3929/ethz-c-000785981), Course Lecture Notes, ETH Zurich, 2025
+  - _A selection of concepts, math, and algorithms that are useful for model-based data analysis and signal processing_.
 
 ## Videos
 
