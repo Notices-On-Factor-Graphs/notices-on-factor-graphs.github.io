@@ -15,9 +15,9 @@ Welcome to **Notices on Factor Graphs** — a lightweight hub for people who sha
 Factor graphs are graphical models that make the factorization structure of functions explicit, enabling efficient message passing-based inference and optimization algorithms in probabilistic models and beyond. Discover more about factor graphs in [Materials](./materials).
 
 
-### Presentation Themes & Topics
+### Presentation themes & topics
 
-This site connects researchers from different labs and disciplines to explore the full breadth of factor graph methods, from theoretical foundations and numerical techniques to applications in signal processing, control, communications, and beyond.
+This site aims to connect researchers from different labs and disciplines to explore the full breadth of factor graph methods, from theoretical foundations and numerical techniques to applications in signal processing, control, communications, and beyond.
 
 
 We will host and archive online presentations on this website. Find out about upcoming talks in the [Agenda](./agenda).
